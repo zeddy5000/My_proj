@@ -1,0 +1,3 @@
+90888 zeddy isu 0.44
+23444 helen isu -56.00
+98765 samuel isu 0
